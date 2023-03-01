@@ -1,1 +1,1 @@
-# Welcome to Activic 👋
+# 👋 Welcome to Activic.
